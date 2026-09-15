@@ -1,0 +1,51 @@
+0,Ticker,Name,Ticker BBG,GICS
+1,ABI.BR,Anheuser-Busch InBev,ABI BB,Consumer Staples
+2,AD.AS,Ahold Delhaize,AD NA,Consumer Staples
+3,ADSGn.DE,Adidas,ADS GY,Consumer Discretionary
+4,ADYEN.AS,Adyen,ADYEN NA,Financials
+5,AIR.PA,Airbus,AIR FP,Industrials
+6,AIRP.PA,Air Liquide,AI FP,Materials
+7,ALVG.DE,Allianz,ALV GY,Financials
+8,ASML.AS,ASML,ASML NA,Information Technology
+9,AXAF.PA,AXA,CS FP,Financials
+10,BASFn.DE,BASF,BAS GY,Materials
+11,BAYGn.DE,Bayer,BAYN GY,Health Care
+12,BBVA.MC,BBVA,BBVA SM,Financials
+13,BMWG.DE,BMW,BMW GY,Consumer Discretionary
+14,BNPP.PA,BNP Paribas,BNP FP,Financials
+15,CRH.I,CRH,CRH LN,Materials
+16,DANO.PA,Danone,BN FP,Consumer Staples
+17,DB1Gn.DE,Deutsche Boerse,DB1 GY,Financials
+18,DPWGn.DE,Deutsche Post,DHL GY,Industrials
+19,DTEGn.DE,Deutsche Telekom,DTE GY,Communication Services
+20,ENEI.MI,Enel,ENEL IM,Utilities
+21,ENI.MI,Eni,ENI IM,Energy
+22,ESLX.PA,EssilorLuxottica,EL FP,Health Care
+23,FLTRF.I,Flutter Entertainment,FLTR LN,Consumer Discretionary
+24,HRMS.PA,Hermès,RMS FP,Consumer Discretionary
+25,IBE.MC,Iberdrola,IBE SM,Utilities
+26,IFXGn.DE,Infineon Technologies,IFX GY,Information Technology
+27,INGA.AS,ING Group,INGA NA,Financials
+28,ISP.MI,Intesa Sanpaolo,ISP IM,Financials
+29,ITX.MC,Inditex,ITX SM,Consumer Discretionary
+30,LINI.DE,Linde PLC,LIN GY,Materials
+31,LVMH.PA,LVMH Moët Hennessy Louis Vuitton,MC FP,Consumer Discretionary
+32,MBGn.DE,Mercedes-Benz Group,MBG GY,Consumer Discretionary
+33,MUVGn.DE,Munich Re,MUV2 GY,Financials
+34,NDAFI.HE,Nordea,NDA FH,Financials
+35,NOKIA.HE,Nokia,NOKIA FH,Information Technology
+36,OREP.PA,L'Oréal,OR FP,Consumer Staples
+37,PERP.PA,Pernod Ricard,RI FP,Consumer Staples
+38,PRTP.PA,Kering,KER FP,Consumer Discretionary
+39,PRX.AS,Prosus,PRX NA,Consumer Discretionary
+40,SAF.PA,Safran,SAF FP,Industrials
+41,SAN.MC,Banco Santander,SAN SM,Financials
+42,SAPG.DE,SAP,SAP GY,Information Technology
+43,SASY.PA,Sanofi,SAN FP,Health Care
+44,SCHN.PA,Schneider Electric,SU FP,Industrials
+45,SGEF.PA,Vinci,DG FP,Industrials
+46,SIEGn.DE,Siemens,SIE GY,Industrials
+47,STLAM.MI,Stellantis,STLAM IM,Consumer Discretionary
+48,TTEF.PA,TotalEnergies,TTE FP,Energy
+49,VNAn.DE,Vonovia,VNA GY,Real Estate
+50,VOWG_p.DE,Volkswagen Group,VOW GY,Consumer Discretionary
